@@ -1,0 +1,67 @@
+* {
+    margin: 0px;
+    font-family: 'Space Mono', monospace;
+}
+
+header {
+    background-color: #6787cf;
+    padding: 0 20%;
+    height: 75px;
+}
+
+.main_logo {
+    float: left;
+    margin-top: 20px;
+    color: white;
+    font-size: 25px;
+}
+
+.main_logo a {
+    color: white;
+    text-decoration: none;
+    outline: none;
+}
+.nav_menu {
+    float: right;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+
+.nav_menu li {
+    margin-left: 50px;
+}
+
+li {
+    display: inline;
+    margin-left: 50px;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    outline: none;
+    font-size: 25px;
+}
+
+footer {
+    background-color: #14171a;
+    height: 150px;
+}
+
+footer p {
+    color: white;
+    padding-top: 60px;
+    padding-left: 100px;
+    float: left;
+}
+
+.socials {
+    padding-top: 60px;
+    padding-right: 100px;
+    float: right;
+}
+
+.socials a {
+    color: white;
+}

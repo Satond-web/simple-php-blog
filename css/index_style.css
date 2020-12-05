@@ -1,0 +1,130 @@
+.first_section {
+	background-color: #6787cf;
+	height: 120vh;
+	padding: 0 20%;
+}
+
+td span{
+	color: #b1bedb;
+	font-size: 30px
+}
+
+a {
+	text-decoration: none;
+}
+
+#last_article {
+	background-color: white;
+	position:relative;
+	height: 1000px;
+}
+
+
+.article {
+	padding: 0 30%;
+}
+
+.last_article_img {
+	text-align: center;
+}
+
+.article h1, h4	{
+	text-align: center;
+	color: #6787cf;
+	margin-bottom: 20px;
+}
+
+.last_article_img img {
+	height: 400px;
+}
+
+.article_button {
+	text-align: center;
+}
+
+.article_button a button {
+	background-color: transparent;
+	border: 2px black solid;
+	margin-top: 20px;
+	height: 50px;
+	width:  150px;
+	outline: none;
+	cursor: pointer;
+}
+
+#third_section {
+	height: 500px;
+	background-color: #f0f0f0;
+	position:relative;
+}
+
+#last_article:before{
+	content:'';
+	position:absolute;
+	top:-50px;
+	width:0;
+	height:0;
+	border-bottom: 50px solid white;
+	border-right: 99.1vw solid transparent;
+}
+
+
+#third_section:before{
+	content:'';
+	position:absolute;
+	top:-50px;
+	width:0;
+	height:0;
+	border-bottom: 50px solid #f0f0f0;
+	border-left: 99.1vw solid transparent;
+}
+
+.newsletter_p {
+	padding-top: 100px;
+	text-align: center;
+	font-size: 50px;
+}
+
+.newsletter_form {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.sign_up_newsletter {
+	display: inline-block;
+	border-bottom: 1px black solid;
+}
+
+#submit_newsletter {
+	text-decoration: none;
+	border: none;
+	vertical-align: middle;
+}
+
+#newsletter_email_field {
+	border: none;
+	outline:none;
+	background-color: transparent;
+	font-size: 20px;
+	padding-bottom: -5px;
+	width: 340px;
+
+}
+
+.last_article_title {
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+
+@media only screen and (max-width: 1300px) {
+
+	header{
+		padding: 0 5%;
+	}
+
+	.article {
+		padding: 0 20%;
+	}
+
+}
