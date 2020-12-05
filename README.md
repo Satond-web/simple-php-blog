@@ -1,14 +1,14 @@
-#Simple blog application
+# Simple blog application
 
 Simple blogging application written with PHP7.
 
 [Demo](http://testdomain123123.space/)
-#####main page preview:
-####![](https://media.giphy.com/media/eDMjPjrE7nfmCNDVPG/giphy.gif)
+##### main page preview:
+#### ![](https://media.giphy.com/media/eDMjPjrE7nfmCNDVPG/giphy.gif)
 
 
 
-#Installation
+# Installation
 1. Install OpenServer
 2. Download the repository
 3. Extract it to OpenServer/domains/localhost
