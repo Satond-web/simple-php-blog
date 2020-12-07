@@ -2,7 +2,7 @@
 
 Simple blogging application written with PHP7.
 
-[Demo](http://testdomain123123.space/)
+[Demo](https://blog.satond.ru/)
 ##### main page preview:
 #### ![](https://media.giphy.com/media/eDMjPjrE7nfmCNDVPG/giphy.gif)
 
